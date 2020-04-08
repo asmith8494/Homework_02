@@ -1,0 +1,22 @@
+/* Navbar */
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar-brand {
+    background-color: teal;
+    padding: 10px 20px;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:hover {
+    color: #ffffff;
+}
+
+/* Main */
+
+.content-box {
+    background-color: #CCC;
+}
